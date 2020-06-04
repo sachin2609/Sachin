@@ -17,3 +17,8 @@ EXECUTE
 1.3 GIT DESKTOP CLIENT
 rebase
 merge conflict
+
+
+1.4   rebase 
+1.5  merge 
+1.6   pull and push
