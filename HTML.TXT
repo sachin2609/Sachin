@@ -7,3 +7,9 @@ EXECUTE
 1.1   GIT COMMANDS
 1.2  GIT WEB REGISTRATION
 1.3 GIT DESKTOP CLIENT
+
+
+realme 
+samsung
+nokia
+apple
